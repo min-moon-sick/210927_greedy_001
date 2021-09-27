@@ -135,7 +135,7 @@
 
 % 1이 될 때까지
 
-
+@ problem_003 - 1이 될 때까지
 ![image](https://user-images.githubusercontent.com/88085974/134919411-1e12545c-bf43-40eb-acbd-a8ad9573af8b.png)
 
 
